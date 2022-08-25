@@ -1,0 +1,1 @@
+whoami /Groups /fo list | find "ADFS-VIP-Access"
